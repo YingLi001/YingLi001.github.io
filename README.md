@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ying Li Profile
 
 Resume: https://liy19970417.wixsite.com/yingli
 

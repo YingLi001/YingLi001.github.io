@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Resume: https://liy19970417.wixsite.com/yingli
+
 Profile: https://yingli001.github.io/
 
 You can use the [editor on GitHub](https://github.com/YingLi001/YingLi001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
